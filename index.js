@@ -10,7 +10,7 @@ const slope = document.querySelector("#slope");
 const yIntercept = document.querySelector("#yintercept");
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(2500, 2500);
   background(0);
   m = tf.variable(tf.scalar(random(1)));
   b = tf.variable(tf.scalar(random(1)));
