@@ -9,6 +9,6 @@
 <br/>
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-<p>Check out demo <a href="https://girishsawant999.github.io/linear-regression-tensorflowJS/">here</a></p>
+<p>Check out demo <a href="https://girishsawant999.github.io/linear-regression-tensorflow-js/">here</a></p>
 
 ---
